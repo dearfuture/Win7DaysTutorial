@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v140:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=8.1
+Debug|Win32|I:\网络教学\51CTO\完成\35_windows API编程入门\3_线程篇\上\练习\创建线程带线程参数\|

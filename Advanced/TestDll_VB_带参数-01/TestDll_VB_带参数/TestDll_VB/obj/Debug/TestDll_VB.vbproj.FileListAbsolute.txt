@@ -1,0 +1,10 @@
+C:\Users\ycx\Desktop\TestDll_VB\TestDll_VB\bin\Debug\TestDll_VB.exe.config
+C:\Users\ycx\Desktop\TestDll_VB\TestDll_VB\bin\Debug\TestDll_VB.exe
+C:\Users\ycx\Desktop\TestDll_VB\TestDll_VB\bin\Debug\TestDll_VB.pdb
+C:\Users\ycx\Desktop\TestDll_VB\TestDll_VB\bin\Debug\TestDll_VB.xml
+C:\Users\ycx\Desktop\TestDll_VB\TestDll_VB\obj\Debug\TestDll_VB.Resources.resources
+C:\Users\ycx\Desktop\TestDll_VB\TestDll_VB\obj\Debug\TestDll_VB.vbproj.GenerateResource.Cache
+C:\Users\ycx\Desktop\TestDll_VB\TestDll_VB\obj\Debug\TestDll_VB.vbproj.CoreCompileInputs.cache
+C:\Users\ycx\Desktop\TestDll_VB\TestDll_VB\obj\Debug\TestDll_VB.exe
+C:\Users\ycx\Desktop\TestDll_VB\TestDll_VB\obj\Debug\TestDll_VB.xml
+C:\Users\ycx\Desktop\TestDll_VB\TestDll_VB\obj\Debug\TestDll_VB.pdb

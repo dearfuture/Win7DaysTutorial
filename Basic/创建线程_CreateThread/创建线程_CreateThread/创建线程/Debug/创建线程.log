@@ -1,0 +1,4 @@
+﻿  demo.cpp
+demo.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+  创建线程.vcxproj -> I:\网络教学\51CTO\完成\35_windows API编程入门\3_线程篇\上\创建线程\Debug\创建线程.exe
+  创建线程.vcxproj -> I:\网络教学\51CTO\完成\35_windows API编程入门\3_线程篇\上\创建线程\Debug\创建线程.pdb (Full PDB)

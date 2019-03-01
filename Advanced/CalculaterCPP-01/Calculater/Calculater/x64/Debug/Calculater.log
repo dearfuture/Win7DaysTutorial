@@ -1,0 +1,4 @@
+﻿  calc.cpp
+c:\users\ycx\desktop\calculater\calculater\calc.cpp(22): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+    正在创建库 C:\Users\ycx\Desktop\Calculater\x64\Debug\Calculater.lib 和对象 C:\Users\ycx\Desktop\Calculater\x64\Debug\Calculater.exp
+  Calculater.vcxproj -> C:\Users\ycx\Desktop\Calculater\x64\Debug\Calculater.dll

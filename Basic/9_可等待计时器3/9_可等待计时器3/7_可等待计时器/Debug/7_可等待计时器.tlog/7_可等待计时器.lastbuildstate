@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v140:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=8.1
+Debug|Win32|J:\网络教学\51CTO\完成\35_windows API编程入门\3_线程篇\下\练习\9_可等待计时器3\|

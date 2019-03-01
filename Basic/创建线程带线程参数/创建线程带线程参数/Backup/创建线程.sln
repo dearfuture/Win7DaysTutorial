@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "创建线程", "创建线程\创建线程.vcproj", "{03F6DC0E-3DB6-4C49-9CDA-CE2655E8341A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03F6DC0E-3DB6-4C49-9CDA-CE2655E8341A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{03F6DC0E-3DB6-4C49-9CDA-CE2655E8341A}.Debug|Win32.Build.0 = Debug|Win32
+		{03F6DC0E-3DB6-4C49-9CDA-CE2655E8341A}.Release|Win32.ActiveCfg = Release|Win32
+		{03F6DC0E-3DB6-4C49-9CDA-CE2655E8341A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

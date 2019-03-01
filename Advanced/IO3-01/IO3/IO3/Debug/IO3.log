@@ -1,0 +1,8 @@
+﻿  demo.cpp
+c:\users\ycx\desktop\io3\io3\demo.cpp(26): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“ULONGLONG”
+  c:\users\ycx\desktop\io3\io3\demo.cpp(26): note: 请考虑在格式字符串中使用“%llu”
+  c:\users\ycx\desktop\io3\io3\demo.cpp(26): note: 请考虑在格式字符串中使用“%I64u”
+c:\users\ycx\desktop\io3\io3\demo.cpp(32): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“LONGLONG”
+  c:\users\ycx\desktop\io3\io3\demo.cpp(32): note: 请考虑在格式字符串中使用“%llu”
+  c:\users\ycx\desktop\io3\io3\demo.cpp(32): note: 请考虑在格式字符串中使用“%I64u”
+  IO3.vcxproj -> C:\Users\ycx\Desktop\IO3\Debug\IO3.exe

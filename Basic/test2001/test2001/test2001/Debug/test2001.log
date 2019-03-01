@@ -1,0 +1,5 @@
+﻿  demo.cpp
+d:\51项目\test2001\test2001\demo.cpp(6): warning C4996: 'GetVersionExW': 被声明为已否决
+  c:\program files (x86)\windows kits\8.1\include\um\sysinfoapi.h(442): note: 参见“GetVersionExW”的声明
+  test2001.vcxproj -> D:\51项目\test2001\Debug\test2001.exe
+  test2001.vcxproj -> D:\51项目\test2001\Debug\test2001.pdb (Full PDB)

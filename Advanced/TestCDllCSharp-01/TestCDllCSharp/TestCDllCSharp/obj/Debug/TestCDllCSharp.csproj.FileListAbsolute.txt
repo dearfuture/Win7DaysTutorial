@@ -1,0 +1,7 @@
+C:\Users\ycx\Desktop\TestCDllCSharp\TestCDllCSharp\bin\Debug\TestCDllCSharp.exe.config
+C:\Users\ycx\Desktop\TestCDllCSharp\TestCDllCSharp\bin\Debug\TestCDllCSharp.exe
+C:\Users\ycx\Desktop\TestCDllCSharp\TestCDllCSharp\bin\Debug\TestCDllCSharp.pdb
+C:\Users\ycx\Desktop\TestCDllCSharp\TestCDllCSharp\obj\Debug\TestCDllCSharp.csprojResolveAssemblyReference.cache
+C:\Users\ycx\Desktop\TestCDllCSharp\TestCDllCSharp\obj\Debug\TestCDllCSharp.csproj.CoreCompileInputs.cache
+C:\Users\ycx\Desktop\TestCDllCSharp\TestCDllCSharp\obj\Debug\TestCDllCSharp.exe
+C:\Users\ycx\Desktop\TestCDllCSharp\TestCDllCSharp\obj\Debug\TestCDllCSharp.pdb

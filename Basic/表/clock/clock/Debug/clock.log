@@ -1,0 +1,16 @@
+﻿  clock.cpp
+e:\网络教学\51cto\完成\35_windows api编程入门\5_gdi钟表实例篇\资料\clock\clock\clock.cpp(342): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+e:\网络教学\51cto\完成\35_windows api编程入门\5_gdi钟表实例篇\资料\clock\clock\clock.cpp(343): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+e:\网络教学\51cto\完成\35_windows api编程入门\5_gdi钟表实例篇\资料\clock\clock\clock.cpp(371): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+e:\网络教学\51cto\完成\35_windows api编程入门\5_gdi钟表实例篇\资料\clock\clock\clock.cpp(372): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+e:\网络教学\51cto\完成\35_windows api编程入门\5_gdi钟表实例篇\资料\clock\clock\clock.cpp(380): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+e:\网络教学\51cto\完成\35_windows api编程入门\5_gdi钟表实例篇\资料\clock\clock\clock.cpp(381): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+e:\网络教学\51cto\完成\35_windows api编程入门\5_gdi钟表实例篇\资料\clock\clock\clock.cpp(409): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+e:\网络教学\51cto\完成\35_windows api编程入门\5_gdi钟表实例篇\资料\clock\clock\clock.cpp(410): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+e:\网络教学\51cto\完成\35_windows api编程入门\5_gdi钟表实例篇\资料\clock\clock\clock.cpp(420): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+e:\网络教学\51cto\完成\35_windows api编程入门\5_gdi钟表实例篇\资料\clock\clock\clock.cpp(421): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+e:\网络教学\51cto\完成\35_windows api编程入门\5_gdi钟表实例篇\资料\clock\clock\clock.cpp(451): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+e:\网络教学\51cto\完成\35_windows api编程入门\5_gdi钟表实例篇\资料\clock\clock\clock.cpp(452): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+e:\网络教学\51cto\完成\35_windows api编程入门\5_gdi钟表实例篇\资料\clock\clock\clock.cpp(460): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+e:\网络教学\51cto\完成\35_windows api编程入门\5_gdi钟表实例篇\资料\clock\clock\clock.cpp(461): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+  clock.vcxproj -> E:\网络教学\51CTO\完成\35_windows API编程入门\5_GDI钟表实例篇\资料\clock\Debug\clock.exe
